@@ -1,0 +1,27 @@
+@font-face {
+    font-family:minecraft;
+    src: url(Minecrafter.Alt.ttf);
+}
+
+#uno{
+    color: rgb(161, 36, 126);
+    font-family:minecraft;
+    text-align: center;
+}
+#dos{
+    color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+a {
+    width: 5%;
+}
+
+img {
+    width: 20%;
+    margin: 10% 40% 10% 40%;
+    display: block;
+   
+}
+
+
