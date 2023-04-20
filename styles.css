@@ -21,4 +21,8 @@ img {
    
 }
 
-
+@media only screen and (max-width: 768px){
+    .texto-centrado{
+        width: 50%;
+    }
+}
